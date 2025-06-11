@@ -875,7 +875,7 @@ if isPlayerOnMobile() then
 	MobileButtoeeeee.BackgroundColor3 = Color3.new(1,1,1)
 	MobileButtoeeeee.BorderSizePixel = 0
 	MobileButtoeeeee.BorderColor3 = Color3.new(0,0,0)
-	MobileButtoeeeee.Image = "rbxassetid://120592858878912"
+	MobileButtoeeeee.Image = "rbxassetid://125025821792020"
 	MBCoefefrner.CornerRadius = UDim.new(0,5)
 
 	CreateDrag(MobileButtoeeeee)
